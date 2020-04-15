@@ -12,7 +12,7 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
-public class TestCase1 {
+public class TC1_GetRequest {
 	
 	// Weather API - Validate status code & Status line
 	
